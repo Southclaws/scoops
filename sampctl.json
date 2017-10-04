@@ -1,0 +1,6 @@
+{
+    "version": "1.2.6-R2",
+    "url": "https://github.com/Southclaws/sampctl/releases/download/1.2.6-R2/sampctl_1.2.6-R2_windows_amd64.tar.gz",
+    "bin": "sampctl",
+    "license": "GPLv3"
+}
