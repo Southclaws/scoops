@@ -1,6 +1,6 @@
 {
-    "version": "1.3.0-RC3",
-    "url": "https://github.com/Southclaws/sampctl/releases/download/1.3.0-RC3/sampctl_1.3.0-RC3_windows_amd64.tar.gz",
+    "version": "1.4.0-RC3",
+    "url": "https://github.com/Southclaws/sampctl/releases/download/1.4.0-RC3/sampctl_1.4.0-RC3_windows_amd64.tar.gz",
     "bin": "sampctl.exe",
     "license": "GPLv3"
 }
