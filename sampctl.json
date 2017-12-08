@@ -1,7 +1,7 @@
 {
     "version": "1.4.0-RC13",
     "url": [
-        "/Southclaws/sampctl/releases/download/1.4.0-RC13/sampctl.exe"
+        "https://github.com/Southclaws/sampctl/releases/download/1.4.0-RC13/sampctl.exe"
     ],
     "homepage": "https://github.com/Southclaws/sampctl"
 }
