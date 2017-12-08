@@ -3,5 +3,8 @@
     "url": [
         "https://github.com/Southclaws/sampctl/releases/download/1.4.0/sampctl_1.4.0_windows_amd64.tar.gz"
     ],
+    "bin": [
+        "sampctl.exe"
+    ],
     "homepage": "https://github.com/Southclaws/sampctl"
 }
