@@ -1,7 +1,7 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.5",
     "url": [
-        "https://github.com/Southclaws/sampctl/releases/download/1.4.0/sampctl_1.4.0_windows_amd64.tar.gz"
+        "https://github.com/Southclaws/sampctl/releases/download/1.4.5/sampctl_1.4.5_windows_amd64.tar.gz"
     ],
     "bin": [
         "sampctl.exe"
