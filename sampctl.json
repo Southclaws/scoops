@@ -1,7 +1,7 @@
 {
-    "version": "1.5.7",
+    "version": "1.5.8",
     "url": [
-        "https://github.com/Southclaws/sampctl/releases/download/1.5.7/sampctl_1.5.7_windows_amd64.tar.gz"
+        "https://github.com/Southclaws/sampctl/releases/download/1.5.8/sampctl_1.5.8_windows_amd64.tar.gz"
     ],
     "bin": [
         "sampctl.exe"
