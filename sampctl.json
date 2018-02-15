@@ -1,14 +1,16 @@
 {
-    "version": "1.6.7",
+    "version": "1.6.8",
     "architecture": {
-        "64bit": {
-            "url": "https://github.com/Southclaws/sampctl/releases/download/1.6.7/sampctl_1.6.7_windows_amd64.tar.gz",
+        "32bit": {
+            "url": "https://github.com/Southclaws/sampctl/releases/download/1.6.8/sampctl_1.6.8_windows_386.tar.gz",
             "bin": "sampctl.exe"
         },
-        "32bit": {
-            "url": "https://github.com/Southclaws/sampctl/releases/download/1.6.7/sampctl_1.6.7_windows_386.tar.gz",
+        "64bit": {
+            "url": "https://github.com/Southclaws/sampctl/releases/download/1.6.8/sampctl_1.6.8_windows_amd64.tar.gz",
             "bin": "sampctl.exe"
         }
     },
-    "homepage": "http://sampctl.com"
+    "homepage": "http://sampctl.com",
+    "license": "GPLv3",
+    "description": "The Swiss Army Knife of SA:MP - vital tools for any server owner or library maintainer."
 }
