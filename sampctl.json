@@ -1,12 +1,12 @@
 {
-    "version": "1.7.12",
+    "version": "1.7.13",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/Southclaws/sampctl/releases/download/1.7.12/sampctl_1.7.12_windows_386.tar.gz",
+            "url": "https://github.com/Southclaws/sampctl/releases/download/1.7.13/sampctl_1.7.13_windows_386.tar.gz",
             "bin": "sampctl.exe"
         },
         "64bit": {
-            "url": "https://github.com/Southclaws/sampctl/releases/download/1.7.12/sampctl_1.7.12_windows_amd64.tar.gz",
+            "url": "https://github.com/Southclaws/sampctl/releases/download/1.7.13/sampctl_1.7.13_windows_amd64.tar.gz",
             "bin": "sampctl.exe"
         }
     },
