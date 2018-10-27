@@ -4,12 +4,12 @@
         "32bit": {
             "url": "https://github.com/Southclaws/sampctl/releases/download/1.8.36/sampctl_1.8.36_windows_386.tar.gz",
             "bin": "sampctl.exe",
-            "hash": "891d582659e8e5cd5de81b5b8664fe1e1c80c69201a4bade325d27092386e45f"
+            "hash": "5e754c72be4d118d611720f8af924ccc512ff966a0c97cb8d0cf90d2a21cec01"
         },
         "64bit": {
             "url": "https://github.com/Southclaws/sampctl/releases/download/1.8.36/sampctl_1.8.36_windows_amd64.tar.gz",
             "bin": "sampctl.exe",
-            "hash": "ac88e141797da629911120738366dd30319bf1f50d0412dedb0274e2b7176ade"
+            "hash": "b3c0a2f69acd44cb410b7b2a7153f7f733724ebab5220ba97257b1c6ab75f853"
         }
     },
     "homepage": "http://sampctl.com",
