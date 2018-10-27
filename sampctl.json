@@ -1,13 +1,15 @@
 {
-    "version": "1.8.33",
+    "version": "1.8.36",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/Southclaws/sampctl/releases/download/1.8.33/sampctl_1.8.33_windows_386.tar.gz",
-            "bin": "sampctl.exe"
+            "url": "https://github.com/Southclaws/sampctl/releases/download/1.8.36/sampctl_1.8.36_windows_386.tar.gz",
+            "bin": "sampctl.exe",
+            "hash": "891d582659e8e5cd5de81b5b8664fe1e1c80c69201a4bade325d27092386e45f"
         },
         "64bit": {
-            "url": "https://github.com/Southclaws/sampctl/releases/download/1.8.33/sampctl_1.8.33_windows_amd64.tar.gz",
-            "bin": "sampctl.exe"
+            "url": "https://github.com/Southclaws/sampctl/releases/download/1.8.36/sampctl_1.8.36_windows_amd64.tar.gz",
+            "bin": "sampctl.exe",
+            "hash": "ac88e141797da629911120738366dd30319bf1f50d0412dedb0274e2b7176ade"
         }
     },
     "homepage": "http://sampctl.com",
